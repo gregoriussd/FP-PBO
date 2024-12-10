@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OrderItem
+comment1.params=
+comment1.target=int\ getQuantity()
+comment2.params=quantity
+comment2.target=void\ setQuantity(int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MealPacket
+comment1.params=name
+comment1.target=MealPacket(java.lang.String)
+comment2.params=item
+comment2.target=void\ addBundledItem(MenuItem)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.util.ArrayList\ getBundledItems()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

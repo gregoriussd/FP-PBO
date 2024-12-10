@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=
+comment1.target=Order()
+comment2.params=
+comment2.target=java.util.ArrayList\ getItems()
+comment3.params=menuItem\ quantity
+comment3.target=void\ addItem(MenuItem,\ int)
+comment4.params=menuItem
+comment4.target=void\ removeItem(MenuItem)
+comment5.params=
+comment5.target=void\ clearOrder()
+numComments=6
